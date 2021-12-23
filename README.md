@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @godoshian
 - 👀 I’m interested in working.
-- 🌱 I’m currently learning (started September 2021).
+- 🌱 I’m currently focusing on Python (started November 2021).
 - 💞️ I’m looking to collaborate in mutually beneficial projects.
 - 📫 Currently accepting offers.
 
