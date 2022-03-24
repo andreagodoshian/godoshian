@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @godoshian
-- 👀 I’m interested in working.
-- 🌱 I’m currently focusing on Python (started November 2021).
-- 💞️ I’m looking to collaborate in mutually beneficial projects.
-- 📫 Currently accepting offers.
+- 👋 Hallå, I’m Andrea @godoshian
+- 👀 I’m interested in the capabilities of Artificial Intelligence.
+- 🌱 I’m currently focusing on Java and Python.
+- 💞️ I’m looking for mutually beneficial projects.
+- 📫 Feel free to contact me! 
 
 <!---
 godoshian/godoshian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
