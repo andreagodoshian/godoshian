@@ -1,7 +1,7 @@
 - 👋 Hallå, I’m Andrea @godoshian
 - 👀 I’m interested in the capabilities of Artificial Intelligence.
-- 🌱 I’m currently focusing on Java and Python.
-- 💞️ I’m looking for mutually beneficial projects.
+- 🌱 I’m currently focusing on Java.
+- 💞️ I’m open to mutually beneficial projects.
 - 📫 Feel free to contact me! 
 
 <!---
